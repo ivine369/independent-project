@@ -1,37 +1,5 @@
 # GithubSearch
 
-# GITHUB-SEARCH
-
-
-### Description of the application
-  This is an application that enables one to write the github name of a person and receieve the name.
-
-## By Ivine Kemuma
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.8.
 
 ## Development server
